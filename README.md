@@ -20,7 +20,11 @@ Dataset: Honey Bee
 ⦁	Testing Samples : 144
 
 CNN Architecture:
+![](/CNN Summary.PNG)
 
+Results:
+
+Evaluation Metric used:
 
 
 
