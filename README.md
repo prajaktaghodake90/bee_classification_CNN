@@ -20,7 +20,7 @@ Dataset: Honey Bee
 ⦁	Testing Samples : 144
 
 
-![](https://github.com/prajaktaghodake90/bee_classification_CNN/blob/main/CNN%20Summary.PNG)
+![](https://github.com/prajaktaghodake90/bee_classification_CNN/blob/main/bee_samples_dataset/NP4050-41r.jpg)
 
 Optimizer and Loss functions used:
 ⦁	ADAM
