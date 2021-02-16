@@ -35,6 +35,10 @@ Results:
 Evaluation Metric : Accuracy
 Accuracy : 52 %
 
+
+![](https://github.com/prajaktaghodake90/bee_classification_CNN/blob/main/output_9_0.png)
+
+
 Conclusion and Future Scope:
 A CNN Claasifier is build using keras Sequential API which classifies honey bees in their respective classes. The results for this task using CNN Classifier shows good performance in terms of accuracy but can be improved and optimized using large training dataset.
 Additionally, the training images can be pre-processed using image processing libraries and packages which will further enhance the testing results.
