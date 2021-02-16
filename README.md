@@ -19,6 +19,9 @@ Dataset: Honey Bee
 ⦁	Training Samples : 570
 ⦁	Testing Samples : 144
 
+
+![](https://github.com/prajaktaghodake90/bee_classification_CNN/blob/main/CNN%20Summary.PNG)
+
 Optimizer and Loss functions used:
 ⦁	ADAM
 ⦁	Binary Crossentropy
