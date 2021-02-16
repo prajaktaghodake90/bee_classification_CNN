@@ -26,7 +26,7 @@ Optimizer and Loss functions used:
 ⦁	Dropout(0.5)
 
 CNN Architecture:
-![](/CNNS%20summary.PNG)
+![](/https://github.com/prajaktaghodake90/bee_classification_CNN/blob/main/CNN%20Summary.PNG)
 
 Results:
 Evaluation Metric : Accuracy
