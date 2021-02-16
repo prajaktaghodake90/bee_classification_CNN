@@ -19,6 +19,8 @@ Dataset: Honey Bee
 ⦁	Training Samples : 570
 ⦁	Testing Samples : 144
 
-1. Layer 1: An input image of 380 X 180 is fed to Convolutional Neural Network(CNN).
-2. 
+CNN Architecture:
+
+
+
 
