@@ -26,7 +26,7 @@ Optimizer and Loss functions used:
 ⦁	Dropout(0.5)
 
 CNN Architecture:
-![](/CNN Summary.PNG)
+![](/CNNS%20summary.PNG)
 
 Results:
 Evaluation Metric : Accuracy
