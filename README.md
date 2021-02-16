@@ -33,7 +33,7 @@ CNN Architecture:
 
 Results:
 Evaluation Metric : Accuracy
-Accuracy : 52 %
+Accuracy : 56 %
 
 
 ![](https://github.com/prajaktaghodake90/bee_classification_CNN/blob/main/output_9_0.png)
